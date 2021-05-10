@@ -1,10 +1,10 @@
-dateModified: 1620655526
+dateModified: 1620668023
 email:
   fromEmail: gregf@thedunhamgroup.com
   fromName: craftcms-test
   transportType: craft\mail\transportadapters\Sendmail
 system:
-  edition: solo
+  edition: pro
   live: true
   name: craftcms-test
   schemaVersion: 3.6.8
