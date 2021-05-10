@@ -1,0 +1,8 @@
+baseUrl: $PRIMARY_SITE_URL
+handle: default
+hasUrls: true
+language: en-US
+name: craftcms-test
+primary: true
+siteGroup: 842f518b-18ea-4ce3-befa-c980139b5e95 # craftcms-test
+sortOrder: 1

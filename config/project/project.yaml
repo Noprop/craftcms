@@ -1,0 +1,17 @@
+dateModified: 1620655526
+email:
+  fromEmail: gregf@thedunhamgroup.com
+  fromName: craftcms-test
+  transportType: craft\mail\transportadapters\Sendmail
+system:
+  edition: solo
+  live: true
+  name: craftcms-test
+  schemaVersion: 3.6.8
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true
